@@ -9,3 +9,6 @@ It's just a simple operation.
 
 Also support load / save with xml.
 
+
+# Only works on Windows 64 bit
+Gotta fix my computer as soon as possible! ;-D
